@@ -1,6 +1,6 @@
-# vue-hackernews-2.0
+# VUE-SSR-AXIOS
 
-HackerNews clone built with Vue 2.0 + vue-router + vuex, with server-side rendering.
+此项目是根据vue-hackernews-2.0为模板进行更改。
 
 <p align="center">
   <a href="https://vue-hn.now.sh" target="_blank">
