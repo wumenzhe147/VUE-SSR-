@@ -1,0 +1,13 @@
+[HPM] Proxy created: /api  ->  http://127.0.0.1:8080
+[HPM] Proxy created: /  ->  http://tlc.rongxiangjiankang.com
+server started at localhost:3333
+ DONE  Compiled successfully in 10432ms17:14:30
+
+ DONE  Compiled successfully in 10653ms17:14:30
+
+webpack built a07c23d1dbefd4aeaf21 in 10653ms
+req.url==/details?id=f02299b2bb324eb08c77cf2ed38fdcfc
+req.url==/dist/fd1786318cbac641ad13.hot-update.json
+req.url==/dist/69b39849195d760f1562.hot-update.json
+data pre-fetch: 208ms
+req.url==/details?id=f02299b2bb324eb08c77cf2ed38fdcfc
